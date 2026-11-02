@@ -1,0 +1,6 @@
+{
+  "name": "MAXXfam Payment Gateway",
+  "description": "Smart Payments. Real Verification. Complete Control. Enterprise UPI payment gateway platform with dynamic QR automation, merchant dashboard, and developer API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
